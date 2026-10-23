@@ -54,7 +54,7 @@ Site responsivo para uma academia, com foco em experiência do usuário, identid
 
 **GitHub:** [matheusgalhiego09-spec](https://github.com/matheusgalhiego09-spec)
 
-**LinkedIn:** Adicionar link do perfil
+**LinkedIn:** (http://www.linkedin.com/in/matheus-galhiego-37183b415)
 
 ---
 
